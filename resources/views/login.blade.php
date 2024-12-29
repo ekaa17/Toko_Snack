@@ -20,7 +20,7 @@
             <img src="{{ asset('assets/img/logotoko.png') }}" alt="">
         </div>
         <div class="text-center mt-4 name">
-            Toko Hadi Mulya Snack<br>
+            Toko Snack<br>
 
             @if(session('wrong'))
                 <div class="alert alert-danger alert-dismissible fade show" role="alert">
